@@ -1,0 +1,4 @@
+echo "Utilisateur : $USER"
+echo "Dossier actuel : $PWD"
+echo "Date : $(date)"
+echo "Place libre : $(df -h)"
