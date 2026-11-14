@@ -19,3 +19,5 @@ do
     nb=$(tail -n +2 "$f" | wc -l)
     echo "$f : $nb ventes"
 done
+
+echo "Rapport terminé"
